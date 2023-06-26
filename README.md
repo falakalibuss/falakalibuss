@@ -2,11 +2,15 @@
    ![HelloTherePrivateFromPenguinsOfMadagascarGIF](https://github.com/falakalibuss/falakalibuss/assets/129784332/f2acecbf-c789-4527-92b3-b9865683af56)
 
    
-   Hi there 👋
+   Hello there 👋
    
-   I am Busra 👱🏻‍♀️..
+   I am Busra Falakali 👱🏻‍♀️..
    
-   👩🏻‍🏫I am an English Teacher and at the same time I am Software Developer and Front-end Developer💻.
+   👩🏻‍🏫I am patient English Teacher with 8 years experience. Extensively knowledgeable about adapting lesson plans for all types of students. Successful in maintaining and productive relationship with students. 
+   
+   👻At the same time I am Software Developer and Front-end Developer💻.
+
+   ✨My aim is writing functional, applicable and readable code.
    
    🔭 I’m currently working on Html, Css and Js.
    
@@ -20,5 +24,4 @@
    
    😻🐾I am in love with cats especially the black ones🐈‍⬛.
    
-   ⚡ Fun fact: ...
 
