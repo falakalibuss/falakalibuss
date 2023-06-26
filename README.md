@@ -18,7 +18,7 @@
    
    🌱 I love learning new things. I'm currently learning React, Python, React-Redux, React Native, and Redux-Toolkit.
    
-   💬 Ask me about everyhthing.
+   💬 Ask me about everything.
    
    👩🏻‍💻🎈I like coding, travelling, reading books and making amigurumi toys🧶🧸.
    
