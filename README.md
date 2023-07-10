@@ -16,7 +16,7 @@
    
    🤔 I’m looking for help with React, Js, Python, and React Native.
 
-   🌱 I love learning new things. I am a quick learner and open to ne changes. I'm currently learning React, Python, React-Redux, React Native, and Redux-Toolkit.
+   🌱 I love learning new things. I am a quick learner and open to new changes. I'm currently learning React, Python, React-Redux, React Native, and Redux-Toolkit.
    
    💬 Ask me about everything.
    
