@@ -1,9 +1,10 @@
 
    ![HelloTherePrivateFromPenguinsOfMadagascarGIF](https://github.com/falakalibuss/falakalibuss/assets/129784332/f2acecbf-c789-4527-92b3-b9865683af56)
 
-    <h2>
+   <h1>
    Hello there 👋
-  
+   </h1>
+  <h2>
    I'm I am Busra Falakali / @falakalibuss 👱🏻‍♀️, a JR. Software Developer and an English Teacher 🚀🚀. 
    </h2>
   
