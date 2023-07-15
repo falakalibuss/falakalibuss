@@ -7,7 +7,8 @@
    <h2>
    I am Busra Falakali / @falakalibuss 👱🏻‍♀️, a JR. Software Developer and an English Teacher 🚀🚀. 
    </h2>
-   **Talking About Personal Stuffs:**
+   <h2 align="left"> Some Personal Staffs:</h2>
+<p align="left">
   
    👩🏻‍🏫I am patient English Teacher with 8 years experience. Extensively knowledgeable about adapting lesson plans for all types of students. Successful in maintaining and productive relationship with students. 
    
@@ -37,7 +38,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
 
-    <code><img height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+    
 
 <br>
    
