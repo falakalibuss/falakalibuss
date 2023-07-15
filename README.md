@@ -1,11 +1,11 @@
 
    ![HelloTherePrivateFromPenguinsOfMadagascarGIF](https://github.com/falakalibuss/falakalibuss/assets/129784332/f2acecbf-c789-4527-92b3-b9865683af56)
 
-   
+    <h2>
    Hello there 👋
-   <h2>
-I'm I am Busra Falakali / @falakalibuss 👱🏻‍♀️, a JR. Software Developer and an English Teacher 🚀🚀. 
-</h2>
+  
+   I'm I am Busra Falakali / @falakalibuss 👱🏻‍♀️, a JR. Software Developer and an English Teacher 🚀🚀. 
+   </h2>
   
    
    👩🏻‍🏫I am patient English Teacher with 8 years experience. Extensively knowledgeable about adapting lesson plans for all types of students. Successful in maintaining and productive relationship with students. 
