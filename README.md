@@ -3,8 +3,10 @@
 
    
    Hello there 👋
-   
-   I am Busra Falakali / @falakalibuss 👱🏻‍♀️..
+   <h2>
+I'm I am Busra Falakali / @falakalibuss 👱🏻‍♀️, a JR. Software Developer and an English Teacher 🚀🚀. 
+</h2>
+  
    
    👩🏻‍🏫I am patient English Teacher with 8 years experience. Extensively knowledgeable about adapting lesson plans for all types of students. Successful in maintaining and productive relationship with students. 
    
