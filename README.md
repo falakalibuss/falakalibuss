@@ -4,16 +4,16 @@
    <h1>
    Hello there 👋
    </h1>
-  <h2>
-   I'm I am Busra Falakali / @falakalibuss 👱🏻‍♀️, a JR. Software Developer and an English Teacher 🚀🚀. 
+   <h2>
+   I am Busra Falakali / @falakalibuss 👱🏻‍♀️, a JR. Software Developer and an English Teacher 🚀🚀. 
    </h2>
+   **Talking About Personal Stuffs:**
   
-   
    👩🏻‍🏫I am patient English Teacher with 8 years experience. Extensively knowledgeable about adapting lesson plans for all types of students. Successful in maintaining and productive relationship with students. 
    
    👻At the same time I am Software Developer and Front-end Developer💻.
 
-   ✨My aim is writing functional, applicable and readable codes.
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">My aim is writing functional, applicable and readable codes.
    
    🔭 I’m currently working on Html, Css and Js.
    
