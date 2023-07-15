@@ -5,7 +5,7 @@
    Hello there 👋
    </h1>
    <h2>
-   I am Busra Falakali / @falakalibuss 👱🏻‍♀️, a JR. Software Developer and an English Teacher 🚀🚀. 
+   I am Busra Falakali / @falakalibuss 👱🏻‍♀️, a JR. Software Developer and an English Teacher 🚀✨. 
    </h2>
    <h2 align="left"> Some Personal Staffs:</h2>
 <p align="left">
