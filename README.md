@@ -1,8 +1,8 @@
 
    ![HelloTherePrivateFromPenguinsOfMadagascarGIF](https://github.com/falakalibuss/falakalibuss/assets/129784332/f2acecbf-c789-4527-92b3-b9865683af56)
    # Welcome To My GitHub Profile !
-   ![bannerb](file:///C:/Users/Dell/Downloads/WhatsApp%20Image%202023-07-16%20at%2014.38.50.jpeg)
-   <br />
+  ![bannerb](C:\Users\Dell\Downloads\WhatsApp Image 2023-07-16 at 14.38.50 (1).jpeg)
+<br />
   
    <h1>
    Hello there 👋
